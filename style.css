@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+
+.model-container {
+  border: 10px blue;
+  margin: 100px;
+  padding: 10px;
+  width: 700px;
+  height: 700px;
+  position: absolute;
+}
